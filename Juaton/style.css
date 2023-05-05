@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.you{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.ai{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
